@@ -1,0 +1,2 @@
+# Amenkom
+graduation-project
